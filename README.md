@@ -1,4 +1,4 @@
-# 🥁 Pearl Drum Set Landing Page
+# 🥁 Product Landing Page
 
 A responsive **product landing page** for the **Pearl Drum Set** built with **HTML and CSS**.  
 Showcases product features, demo videos, pricing, and a contact form in a clean and modern layout.
